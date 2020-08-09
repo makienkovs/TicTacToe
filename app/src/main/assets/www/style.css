@@ -1,0 +1,40 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap{
+    background: url('sheet.jpg') center 100% no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    color: darkblue;
+    align-self: center;
+}
+
+#menu{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menuSym{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.field{
+    text-align: center; 
+}
+
+#gameField{
+    color: darkblue;
+    background: url('tic-tac-toe.png') center 100% no-repeat;
+	background-size: cover;
+}

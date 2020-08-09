@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="Easy">Easy</string>
+    <string name="Hard">Hard</string>
+    <string name="Background">Background</string>
+    <string name="Sound">Sound</string>
+    <string name="Vibration">Vibration</string>
+    <string name="Twoplayers">Two players</string>
+    <string name="Settings">Settings</string>
+    <string name="Ok">Ok</string>
+</resources>

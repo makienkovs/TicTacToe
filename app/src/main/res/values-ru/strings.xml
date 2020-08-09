@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Крестики нолики</string>
+    <string name="Easy">Легко</string>
+    <string name="Hard">Трудно</string>
+    <string name="Background">Задний фон</string>
+    <string name="Sound">Звук</string>
+    <string name="Vibration">Вибрация</string>
+    <string name="Twoplayers">Два игрока</string>
+    <string name="Settings">Настройки</string>
+    <string name="Ok">ОК</string>
+</resources>
